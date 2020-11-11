@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "canine-cupid-img-storage",
+  "private_key_id": "cd0cec11ea736e06c25081296b5c560f0b830556",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCWyeewXpKD8kRQ\nOluKsKbTC4s5ElfmUXoq5uoFwtmqCNGDVdFW1OI5syO0nDOs+j+0gz92H/MQisRl\nu2hW2q8f9aIy1QWrHcQt5UPYzFrnIw66yIkKF53W/GjfO7rplaN+3w6wladh6/aH\naXzmgXZKJu55tUVCOvfIyzRYlgpJNdwgDKNPCXntErdLak3+mzKmod/N89avMscp\ndOzteR1Ik/XFP3uzOsBKkFNDw5wfMmJKbIfBGoBt8R0oYYu7QY2jcPaFrQO4AZzg\n7yLoLxO5eaXyKLI0NjcMGxFAkmDXX08zxJUdoBHDM/QYknPnGJ7g7djowsFQU+9g\nlDjXrKBJAgMBAAECggEAAhEBBvSa1SpTJ5bPJZjLZnnCZg0zbW15K0CYHS1ZCoid\np2s8B9C5y3DiKMHZvvF8gUKpslqYfAXs0FiXwtXzH7Df8Mqkzd4l77uUORK+3atI\nMsTYBO6DLBywKrwAsR4K/Cx+IOsiHLhNO/iU/LsyNeyv6LTUXsacWfD39g1TVYK9\nK3DlOVZQNoNdxxRySY6FYtlvrl5dLRh1xpnvPqHUAB9zj5/DSPuWLVTg/yC4htC/\n31m3a81ViTK9Ez4rjSuyoAIhnyXuNkSOODRihjnjcAYnKdcwTC0CaZ6VlaZnxIo5\n9Wtv02FnMiVCZWyjk/JB3uOJ9t8Ff6P7ZJcRQjO0AQKBgQDUSaqUEVvEfUSgqjJ9\nDLocgLRa5mpALBWMJk6oOKIKiLGFpfAR4QkUFKx2z5D/nxbp61J4a9w0KslAdD2S\n04VLt5zOR4ssOyCATHCpBHb7l6yqWW9/0jY+s3S50KvxENe9+vLgMVRPHdwdzzkT\n9nM0xicbzfxzO5p2bxgPC1jUAQKBgQC11m+NRLj9NX37I48loszUV1x/S4B0NlQs\nNVz357v+EAeVQz1W3gYopy1FmHFGljC5J1DaNCRMd4ZGPpBGMiqN5XwdVOJ/CKZl\nuaBLd8kmX46TxfGzr7Ez/Uu/hCQHQNko7XTSOicusne2vMeTuK7fdox9ftO9KgBC\nX6DDNugsSQKBgFSqlMe9LJZvR6G0f7J0Ev4vLr9aSmIRsv5UgOaCv83nurWM+vSG\nhfJmVGqGWlQ5BRCCdD/m9MoxjlaQhcY7alxKfNWgnxci9dF1qzEdwL6TPaArT1bx\nZgUX2aQKX6kjiIgSwC8+PVvYkuOotCEMF+KibRKf0uG6kd5ObJADfIgBAoGAN50a\nCQ7XtTnDCihaA5zDIL6HX7dr1h83pz267WdGq/GjIBesjwDgyVY4Fm0FWB1fUYGg\nzNvdrjVwL9O6tH1rXnKtfxsTGt8+ZSZczDgaoU3ggXms7tPxUoFJxY1Yp49B266k\naBe5HCMhUhZyw89cTKQpW8iKYfSSl7o/pPUKFWECgYEAyRFMPhmOlVFaA90uhT/n\nCq5gdBxwPBWWQRBKaQnUVxDhL2udVhWO1OVHQ8ZlAK0pi2mEnAhPuxslsyMF+yxp\n5afjKrb7lhb7Bjz9fQlhvK5HGX2vVjc+ll98aiVTv4sKVVga9PIK97vtFRwBXLFW\noiC8CnVUreeOliYt9z6Sey4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-izyoi@canine-cupid-img-storage.iam.gserviceaccount.com",
+  "client_id": "107254094150596894160",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-izyoi%40canine-cupid-img-storage.iam.gserviceaccount.com"
+}
